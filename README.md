@@ -1,7 +1,7 @@
 # A Framework for Identifying Underspecification in Image Classification Pipeline Using Post-Hoc Analyzer
 
 [![Conference](https://img.shields.io/badge/ICPRAM-2025-blue)](https://icpram.scitevents.org/)
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](paper.pdf)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://www.scitepress.org/Papers/2025/133742/133742.pdf)
 [![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.14.0-orange.svg)](https://www.tensorflow.org/)
 
