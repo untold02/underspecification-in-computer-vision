@@ -367,7 +367,7 @@ If you use this code or find our work helpful, please cite our paper:
 }
 ```
 
-**Paper**: [Available here](paper.pdf)
+**Paper**: [Available here](https://www.scitepress.org/Papers/2025/133742/133742.pdf)
 **Conference**: ICPRAM 2025 - 14th International Conference on Pattern Recognition Applications and Methods
 
 ---
