@@ -9,7 +9,7 @@ Official implementation of the paper: **"A Framework for Identifying Underspecif
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Key Contributions](#key-contributions)
@@ -61,7 +61,7 @@ We propose a framework that:
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### Framework Overview
 
